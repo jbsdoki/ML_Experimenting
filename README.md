@@ -1,2 +1,2 @@
 # ML_Experimenting
-Folder for my Machine Learning testing and experimenting
+This git is for displaying my work and experimenting with Machine Learning algorithms
