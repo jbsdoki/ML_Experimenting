@@ -1,9 +1,13 @@
 <h1 align="center">Hi , I'm Joseph</h1>
 <h3 align="center">A Electrical Engineering and Computer Science Student at UC Berkeley</h3>
 
-- 🔭 I’m currently working on **Stock Predictor Models**
+- I’m currently working on **Stock Predictor Models**
 
 - I’m currently learning **Machine Learning and Cybersecurity**
+
+- I’m looking to collaborate on **Real world ML Projects**
+
+- I’m looking for help with **Understanding Deep Learning and Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
